@@ -1,0 +1,15 @@
+artifact_uri: file:///home/seaflux/Documents/MLops_learning/mlflow_test/mlruns/0/3ca1c0664a8741c1b2259e66a1bd59da/artifacts
+end_time: 1718255454252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ca1c0664a8741c1b2259e66a1bd59da
+run_name: likeable-squid-686
+run_uuid: 3ca1c0664a8741c1b2259e66a1bd59da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718255454237
+status: 3
+tags: []
+user_id: seaflux

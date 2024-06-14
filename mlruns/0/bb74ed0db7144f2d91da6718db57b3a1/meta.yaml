@@ -1,0 +1,15 @@
+artifact_uri: file:///home/seaflux/Documents/MLops_learning/mlflow_test/mlruns/0/bb74ed0db7144f2d91da6718db57b3a1/artifacts
+end_time: 1718255316206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb74ed0db7144f2d91da6718db57b3a1
+run_name: awesome-owl-952
+run_uuid: bb74ed0db7144f2d91da6718db57b3a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718255316189
+status: 3
+tags: []
+user_id: seaflux
